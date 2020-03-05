@@ -1,3 +1,51 @@
 hello ,how r u
  how ru 
  write something change
+   14  git clone https:\\github.com/edurekavivekh/linux-content.git
+   15  git clone https://github.com/edurekavivekh/linux-content.git
+  268  git config --list
+  270  git config --list
+  272  git config --global user.name "aayush-aryan"
+  273  git config --global user.email=log2aayusharyan@gmail.com
+  274  git config --global user.email "log2aayusharyan@gmail.com"
+  275  git config --list
+  279  mkdir gitClass
+  280  cd gitClass
+  290  git init
+  291  git add Simple.java
+  292  git commit -m "[aayush]Add.printing simple message in this file"
+  293  git push origin master
+  294  git push Origin master
+  295  git push Orgin master
+  296  git push Orgin
+  297  git push --se -upstream Orgin master
+  298  git push Orgin master
+  299  git init
+  300  git add Simple.java
+  301  git commit -m [ayush]"Refactor.added more statement"
+  303  git init
+  304  git commit -m "first commit"
+  531  git init
+  532  git remote add orgin "https://github.com/aayush-aryan/ShellBasic.git"
+  534  git add .
+  535  git status
+  536  git commit
+  537  git commit -m "[AayushBasic]Add. simple text msg"
+  538  git push orgin master
+  539  git status
+  540  git diff
+  541  git diff file.txt
+  542  git pull orgin master
+  543  git diff
+  544  git diff file.txt
+  545  git status
+  546  git branch -b shellSc
+  547  git checkout master
+  548  git pull orgin master
+  549  git diff shellsc master
+  550  git diff Shellsc master
+  551  git checkout Shellsc
+  552  git branch ShellSce
+  553  git merge master ShellSce
+  554  git status
+  555  git push orgin ShellSce
